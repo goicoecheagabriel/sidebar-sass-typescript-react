@@ -7,7 +7,7 @@
 + `npm start`
 
 ## Aplicacion desplegada en github pages.
-### Para ver la app desplegada ingresar [aquí]().
-
+### Para ver la app desplegada ingresar [aquí]("https://goicoecheagabriel.github.io/sidebar-sass-typescript-react/").
+https://goicoecheagabriel.github.io/sidebar-sass-typescript-react/
 
 
