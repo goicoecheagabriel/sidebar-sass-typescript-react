@@ -1,7 +1,8 @@
 import { SideBarMenu } from './components/SideBarMenu';
 import { SideBarMenuItem, SideBarMenuCard } from './types/types';
 import {FcHome, FcAutomatic, FcManager, FcFlowChart} from 'react-icons/fc';
-import profileImage from './util/profile.jpeg'
+// import profileImage from './util/profile.jpeg'
+const profileImage = 'https://avatars.githubusercontent.com/u/38893187?v=4';
 
 function App() {
   const items: SideBarMenuItem[] = [
